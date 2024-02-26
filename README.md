@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohammed Hashim</h1>
-<h3 align="center">Software and Flutter Developer</h3>
+<h3 align="center">Software Developer</h3>
+
+<h3 align="center">Visit my website from this link at <a href="https://mohammed-hashim.com/" target="blank">https://mohammed-hashim.com/</a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedhashim44&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedhashim44" /> </p>
 
-- 🌱 I’m currently learning **Web Fullstack development**
+- 👨‍💻 All of my projects are available at [https://mohammed-hashim.com/](https://mohammed-hashim.com/)
 
-- 👨‍💻 All of my projects are available at [https://mohammedhashim.vercel.app/](https://mohammedhashim.vercel.app/)
-
-- 💬 Ask me about **Flutter, React and Firebase**
+- 💬 Ask me about **Flutter, React, Python and Firebase**
 
 - 📫 How to reach me **https://t.me/Hashim980**
 
-- 📄 Know about my experiences [https://mohammedhashim.vercel.app/resume](https://mohammedhashim.vercel.app/resume)
+- 📄 Know about my experiences [https://mohammed-hashim.com/resume](https://mohammed-hashim.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
