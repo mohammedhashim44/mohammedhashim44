@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Hashim</h1>
 <h3 align="center">Software Developer</h3>
 
-<h3 align="center">Visit my website from this link at <a href="https://mohammed-hashim.com/" target="blank">https://mohammed-hashim.com/</a> </h3>
+<h3 align="center">Visit my website from this link at <a href="https://mohammed-hashim.com/" target="_blank" rel="noopener noreferrer">https://mohammed-hashim.com/</a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedhashim44&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedhashim44" /> </p>
 
